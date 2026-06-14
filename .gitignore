@@ -1,0 +1,20 @@
+.vs/slnx.sqlite
+.vs/
+NSE.WebAPI.Core/bin/
+NSE.WebAPI.Core/obj/
+src/building blocks/NSE.Core/obj/
+src/services/NSE.Carrinho.API/bin/
+src/services/NSE.Carrinho.API/obj/
+src/building blocks/NSE.Core/bin/
+src/services/NSE.Catalogo.API/bin/
+src/services/NSE.Catalogo.API/obj/
+src/services/NSE.Cliente.API/bin/
+src/services/NSE.Cliente.API/obj/
+src/services/NSE.Identidade.API/bin/
+src/services/NSE.Identidade.API/obj/
+src/services/NSE.Pagamento.API/bin/
+src/services/NSE.Pagamento.API/obj/
+src/services/NSE.Pedido.API/bin/
+src/services/NSE.Pedido.API/obj/
+src/web/NSE.WebApp.MVC/bin/
+src/web/NSE.WebApp.MVC/obj/
