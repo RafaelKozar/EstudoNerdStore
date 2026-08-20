@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using FluentValidation.Results;
 using MediatR;
 using NSE.Core.Messages;
 using System.Threading.Tasks;
-using System.ComponentModel.DataAnnotations;
 
 namespace NSE.Core.Mediator
 {

@@ -24,5 +24,9 @@
     <ProjectReference Include="..\..\building blocks\NSE.Core\NSE.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Applications\Queries\" />
+  </ItemGroup>
+
 
 </Project>
