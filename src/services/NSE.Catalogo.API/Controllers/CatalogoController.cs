@@ -5,12 +5,13 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using System;
 using static NSE.WebAPI.Core.Identidade.CustomAuhorization;
+using NSE.WebAPI.Core.Controllers;
 
 namespace NSE.Catalogo.API.Controllers
 {
     [ApiController]
     [Authorize]
-    public class CatalogoController : Controller
+    public class CatalogoController : MainController
     {
         private readonly IProdutoRepository _produtoRepository;
 
