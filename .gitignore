@@ -18,3 +18,4 @@ src/services/NSE.Pedido.API/bin/
 src/services/NSE.Pedido.API/obj/
 src/web/NSE.WebApp.MVC/bin/
 src/web/NSE.WebApp.MVC/obj/
+/src/building blocks/NSE.MessageBus/obj
