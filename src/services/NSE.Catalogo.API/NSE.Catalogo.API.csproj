@@ -23,5 +23,9 @@
     <ProjectReference Include="..\..\building blocks\NSE.Core\NSE.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
 
 </Project>
