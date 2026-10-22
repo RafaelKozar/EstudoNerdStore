@@ -18,4 +18,3 @@ namespace NSE.Core.Messages.Integrations
         }
     }
 }
-}
